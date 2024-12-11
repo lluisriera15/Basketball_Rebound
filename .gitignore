@@ -1,0 +1,6 @@
+# Files and folder that we want to discard
+.ipynb_checkpoints/
+basketdetect/
+modules/
+runs/
+videos_off_reb/

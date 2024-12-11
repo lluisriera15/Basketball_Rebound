@@ -1,0 +1,15 @@
+path: C:\Users\Lluis\Desktop\PROJECT\dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+
+names:
+  0: basketball
+  1: hoop
+  2: player
+
+
+
